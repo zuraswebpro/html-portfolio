@@ -25,7 +25,9 @@ a:link {
 a:hover {
   color: #872341;
 }
-
+a:visited {
+  color: #282a3a;
+}
 img {
   height: 200px;
   width: 200px;
