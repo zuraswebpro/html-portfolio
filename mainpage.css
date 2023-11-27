@@ -1,13 +1,30 @@
 .main {
   background-color: #000000;
 }
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 50px;
+}
 .header {
   text-align: center;
   background-color: #000000;
   color: #c69749;
 }
+hr {
+  border: 2px solid #735f32;
+}
+h3 {
+  padding-left: 7px;
+}
 a {
   color: #735f32;
+}
+img {
+  height: 200px;
+  width: 200px;
 }
 .movieRank {
   background-color: #000000;
