@@ -1,0 +1,18 @@
+.main {
+  background-color: #000000;
+}
+.header {
+  text-align: center;
+  background-color: #000000;
+  color: #c69749;
+}
+a {
+  color: #735f32;
+}
+.movieRank {
+  background-color: #000000;
+  justify-content: center;
+}
+footer {
+  color: #c69749;
+}
