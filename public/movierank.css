@@ -1,0 +1,25 @@
+.main {
+  background-color: #000000;
+}
+.header {
+  text-align: center;
+  background-color: #000000;
+  color: #c69749;
+  font-size: 2rem;
+}
+.cover {
+  height: 300px;
+  width: 200px;
+}
+#firstMovie {
+  color: #c69749;
+  font-size: 2rem;
+}
+#secondMovie {
+  color: #c69749;
+  font-size: 2rem;
+}
+#cornettoandpaul {
+  color: #c69749;
+  font-size: 2rem;
+}
