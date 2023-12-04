@@ -7,6 +7,9 @@
   color: #c69749;
   font-size: 2rem;
 }
+hr {
+  border: 2px solid #c69749;
+}
 .cover {
   height: 300px;
   width: 200px;
@@ -22,4 +25,11 @@
 #cornettoandpaul {
   color: #c69749;
   font-size: 2rem;
+}
+img {
+  border-radius: 5px;
+}
+.caption {
+  font-size: 1rem;
+  font-weight: bold;
 }
