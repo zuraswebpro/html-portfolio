@@ -7,27 +7,27 @@
   flex-wrap: wrap;
   align-items: center;
   gap: 50px;
+  color: #c69749;
 }
 .header {
   text-align: center;
   background-color: #000000;
   color: #c69749;
+  font-family: "Metal Mania";
+  font-size: large;
 }
 hr {
   border: 2px solid #735f32;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 30px;
 }
 h3 {
   padding-left: 7px;
-}
-a:link {
   color: #c69749;
+  font-family: "Roboto";
 }
-a:hover {
-  color: #872341;
-}
-a:visited {
-  color: #735f32;
-}
+
 img {
   height: 200px;
   width: 200px;
@@ -39,4 +39,5 @@ img {
 }
 footer {
   color: #c69749;
+  font-family: "Roboto";
 }
