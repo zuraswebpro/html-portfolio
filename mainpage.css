@@ -31,6 +31,7 @@ a:visited {
 img {
   height: 200px;
   width: 200px;
+  border-radius: 10px;
 }
 .movieRank {
   background-color: #000000;
