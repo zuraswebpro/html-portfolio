@@ -50,10 +50,12 @@ footer {
   font-family: "Roboto";
 }
 .linkedin-link {
-  height: 50px;
-  width: 50px;
+  height: 35px;
+  width: 35px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .twitter-link {
-  height: 50px;
-  width: 50px;
+  height: 35px;
+  width: 35px;
 }
