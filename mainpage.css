@@ -17,14 +17,8 @@
   font-size: large;
 }
 hr {
-  border: 3px solid #c69749;
-  -webkit-filter: blur(5px);
-  filter: blur(5px);
-  border-radius: 3px;
-  box-shadow: 5px 3px 2px black;
-  width: 75%;
-  margin-left: auto;
-  margin-right: auto;
+  border: 1px solid #c69749;
+  border-radius: 5px;
 }
 #aboutMe {
   font-family: "Roboto";
